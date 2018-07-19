@@ -1,0 +1,43 @@
+﻿body {
+  background-color: E9EBEC;
+}
+
+table {
+  background-color: yelllow;
+}
+
+.titulo {
+  color:#FF7F50;
+}
+
+#tabela-paises {
+  width: 100%;
+  border: 2;
+}
+
+.continente {
+  background-color: #DDE4E6; 
+  font-family: "arial", sans-serif;
+  color: #1F5768;
+}
+
+.america {
+  background-color: #E8EDE7; 
+  color: green;
+}
+
+.africa {
+  background-color: #F6F5EB;
+  color: #DAA520;
+  
+}
+
+.asia {
+  background-color: #F8F0EF;
+  color: red;
+}
+
+.europa {
+  color: blue;
+  background-color: #E9EFF9;
+}
