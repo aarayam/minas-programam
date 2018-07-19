@@ -1,0 +1,41 @@
+﻿body {
+  margin: 0;
+  background-color: black;
+}
+
+.titulo {
+  color: #7A558D;
+}
+
+.cor-linha {
+  color: #1D15AE;
+  font-style: italic;
+}
+
+.centralizado {
+  text-align: center;
+}
+
+.vermelho {
+  width: 100vw;
+  height: 100px;
+  background-color: #4E064A;
+}
+
+.alinhados {
+  display: flex;
+}
+
+.amarelo {
+  width: 100vw;
+  height: 300px;
+  background: #D7D70F;
+  margin: 10px;
+}
+
+.verde {
+  width: 100vw;
+  height: 200px;
+  background-color: #11B219;
+  margin: 10px;
+}

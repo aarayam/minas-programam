@@ -1,0 +1,46 @@
+﻿body {
+  margin: 0;
+  background-color: #CED0D5;
+}
+
+.titulo {
+  color: #7A558D;
+}
+
+.cor-linha {
+  color: #1D15AE;
+  font-style: italic;
+}
+
+.centralizado {
+  text-align: center;
+}
+
+.html-header {
+  width: 100vw;
+  height: 150px;
+  background-color: #4E064A;
+}
+
+.html-main {
+  display: flex;
+}
+
+.html-row {
+  width: 100vw;
+  height: 250px;
+  background: #D7D70F;
+  margin: 10px;
+}
+
+.html-footer {
+  width: 100vw;
+  height: 150px;
+  background-color: #11B219;
+}
+
+div .imagem {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
